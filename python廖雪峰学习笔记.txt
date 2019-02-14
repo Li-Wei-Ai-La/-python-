@@ -1,0 +1,4 @@
+CPython解释器是应用最广泛的python解释器。
+python与.net等平台代码交互，使用网络调用比较好，各自有很好的独立性。
+运行.py文件:  python hello.py
+ptint("hello","python")
